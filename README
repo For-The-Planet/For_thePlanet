@@ -1,0 +1,48 @@
+# LexDrive: For The Planet, ("LexDrive")
+
+LexDrive is a secure, open-source platform that combines GitHub-style version 
+control with OneDrive-style file management - built specifically for lawyers, 
+nonlawyers, and public interest advocates. It does two things: (1) enables legal 
+professionals to collaborate on documents with full transparency and version history 
+and (2) provides public users with access to editable legal forms. Initially imagined 
+by someone with no computer skills. Feedback and assistance highly valued.
+
+## Purpose
+
+LexDrive is designed to support:
+
+- Legal professionals who need secure, trackable document collaboration across 
+teams.
+- Public interest advocates, legal aid organizations, and community lawyers working 
+to deliver access to justice through sharable, editable legal forms.
+- Clients and pro se litigants who need to easily find, fill out, and download critical 
+legal documents.
+
+By integrating legal workflows with accessible, open-source technology, LexDrive 
+seeks to modernize legal document management without sacrificing usability or 
+security.
+
+## Key Features
+
+### For Legal Teams
+
+- **Version Control for Legal Documents**
+  - Save, commit, and track changes to legal drafts with plain-language summaries
+  - View and compare previous versions with visual diffs
+- **Secure Collaboration**
+  - Role-based access (e.g., partner, associate, client)
+  - Private workspaces for teams or individual users
+- **No Command Line Needed**
+  - All versioning and editing is done via a clean, modern web interface
+
+### For the Public
+
+- **Editable Legal Form Library**
+  - Browse and fill out standard legal forms directly in the browser
+  - Save or download your completed documents in .docx or .txt format
+- **Zero Account Requirement**
+  - No login needed to use public forms
+- **Lightweight Design**
+  - Works well on low-bandwidth or mobile connections
+
+
